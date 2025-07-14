@@ -18,9 +18,3 @@ As it's made purely with HTML and CSS, dynamic features from the original Netfli
 
 Contributing :
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any potential changes or fixes.
-
-License :
-This project is open source and available under the MIT License.
-
-# 💫 About Me:
-As a dedicated 3rd-year C.S.E student, I have a profound passion for the realm of cybersecurity and ethical hacking.
