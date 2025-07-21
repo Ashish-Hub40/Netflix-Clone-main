@@ -1,3 +1,4 @@
+<img width="1894" height="911" alt="Screenshot 2025-07-21 115306" src="https://github.com/user-attachments/assets/a5fdf637-017f-4ebc-ad9f-2af3291e56bb" />
 # Netflix Clone (HTML & CSS)
 A Netflix clone crafted using pure HTML and CSS. An exercise in frontend design, capturing the essence and aesthetics of Netflix's user interface.
 
